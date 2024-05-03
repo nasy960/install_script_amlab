@@ -2,7 +2,7 @@ sudo echo "install geographiclib"
 
 wget https://github.com/nasy960/install_script_amlab/releases/download/v2024.0/GeographicLib-2.3.tar.gz
 
-unzip GeographicLib-2.3.tar.gz
+tar -xzvf GeographicLib-2.3.tar.gz
 
 cd GeographicLib-2.3
 
